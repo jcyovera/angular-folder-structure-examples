@@ -1,1 +1,0 @@
-# angular-folder-structure-examples
